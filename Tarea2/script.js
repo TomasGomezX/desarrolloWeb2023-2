@@ -24,6 +24,5 @@ console.log("Arreglo después de remover:", myDifferentArray);
 modifyArray(myDifferentArray, "add");
 console.log("Arreglo después de agregar:", myDifferentArray);
 
-// Llamando a la función de callback (función 2) directamente
-console.log("Ejecutando la función de callback:");
+
 printValues("Hola", "Amigo");
